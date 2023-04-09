@@ -1,0 +1,25 @@
+.navbar-brand {
+    letter-spacing: 2px;
+}
+
+.search_form {
+    width: 45%;
+}
+
+
+.banner_container {
+    width: 100%;
+    height: 400px;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.b_left_cont {
+    flex: 1;
+}
+
+.b_right_cont {
+    flex: 1;
+}
